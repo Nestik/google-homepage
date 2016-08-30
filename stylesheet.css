@@ -30,8 +30,9 @@ a {
 
 .signin {
 	background-color: #4285f4;
-	color: white;
+	color: white !important;
 	border-radius: 5%;
+	font-weight: bold;
 }
 
 .container {
